@@ -1,6 +1,7 @@
 #include <stdbool.h>
 #include <stdint.h>
 
+//UGLY HOTFIX!
 #define TARGET_IS_BLIZZARD_RA1
 
 #include "inc/hw_types.h"
